@@ -27,8 +27,8 @@ Optional: Eclipse IDE or VS Code for editing/debugging
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/ccrm_project.git
-cd ccrm_project
+git clone https://github.com/ABHIRAM-DAFLAPURKAR/CCRM-PROJECT----24BCE10542.git
+cd CCRM-PROJECT----24BCE10542
 
 2. Compile the Source Code
 
