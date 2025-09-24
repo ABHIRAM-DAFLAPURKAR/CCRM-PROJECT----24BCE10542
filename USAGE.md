@@ -34,7 +34,6 @@ cd CCRM-PROJECT----24BCE10542
 
 javac -d bin src/edu/ccrm/cli/MainMenu.java src/edu/ccrm/cli/CLIApp.java src/edu/ccrm/domain/*.java src/edu/ccrm/service/*.java src/edu/ccrm/io/*.java src/edu/ccrm/util/*.java src/edu/ccrm/config/*.java
 
-
 3. Run the Program
 
 java -cp bin edu.ccrm.cli.CLIApp
