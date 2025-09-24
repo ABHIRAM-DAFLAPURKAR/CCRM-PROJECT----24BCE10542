@@ -32,16 +32,11 @@ cd CCRM-PROJECT----24BCE10542
 
 2. Compile the Source Code
 
-> All .java files are inside the src folder, and we output compiled classes to the bin folder.
-
-
-
-javac -d bin src/edu/ccrm//*.java
+javac -d bin src/edu/ccrm/cli/MainMenu.java src/edu/ccrm/cli/CLIApp.java src/edu/ccrm/domain/*.java src/edu/ccrm/service/*.java src/edu/ccrm/io/*.java
 
 3. Run the Program
 
-java -cp bin edu.ccrm.cli.MainMenu
-
+java -cp bin edu.ccrm.cli.CLIApp
 
 ---
 
